@@ -9,6 +9,7 @@ This is a collection of agent skills, each one a directory with a `SKILL.md` ins
 | database-reviewer | Reviews PostgreSQL queries, migrations, and schemas. Flags injection, missing RLS, unindexed foreign keys, and migrations that take an exclusive lock on a live table. Read-only. | working |
 | pyspark-solver | Debugs and analyzes Spark commands | working |
 | docker-assistant | Docker and Docker Compose patterns for local development and hardened images. Use when writing or reviewing a Dockerfile or compose.yaml | working |
+| kubernetes-patterns | Kubernetes workload patterns, resource management, RBAC, probes, autoscaling, ConfigMap/Secret handling, and kubectl debugging for production-grade deployments. Use when writing or reviewing Kubernetes manifests, or debugging probes, RBAC, autoscaling, or resource limits. | working |
 
 
 
