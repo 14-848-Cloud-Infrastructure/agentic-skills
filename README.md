@@ -10,6 +10,7 @@ This is a collection of agent skills, each one a directory with a `SKILL.md` ins
 | pyspark-solver | Debugs and analyzes Spark commands | working |
 | docker-assistant | Docker and Docker Compose patterns for local development and hardened images. Use when writing or reviewing a Dockerfile or compose.yaml | working |
 | kubernetes-patterns | Kubernetes workload patterns, resource management, RBAC, probes, autoscaling, ConfigMap/Secret handling, and kubectl debugging for production-grade deployments. Use when writing or reviewing Kubernetes manifests, or debugging probes, RBAC, autoscaling, or resource limits. | working |
+| kafka-patterns | Apache Kafka patterns for topic design, reliable producers and consumers, exactly-once processing, retry and dead-letter handling, schema evolution, testing, and operations. Use when writing Kafka producers or consumers, designing topics and keys, debugging consumer lag or duplicate delivery, or reviewing event-driven code. | working |
 
 
 
